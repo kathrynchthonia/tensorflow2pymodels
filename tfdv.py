@@ -4,7 +4,7 @@ Created on Tue Sep 10 21:25:34 2019
 
 @author: tony
 """
-
+#tfdv mostly for python 2
 !apt-get install python-dev python-snappy
 
 !pip install -q tensorflow_data_validation
